@@ -62,4 +62,4 @@ Make sure you have the following installed:
 
 4. Browser
    Click on:
-     [Link Text](http://localhost:5173/)
+     [http://localhost:5173/](http://localhost:5173/)
